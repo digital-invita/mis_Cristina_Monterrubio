@@ -241,7 +241,7 @@
   "reception": {
     "title": "Recepción",
     "time": "18:00 hrs",
-    "place": "Barbacoa J. Ibarra y familia",
+    "place": "Salón J. Ibarra",
     "mediaMode": "preview",
     "iconSrc": "media/rcp.png",
     "mapLink": "https://maps.app.goo.gl/DowGPGrwcAz6mn3NA",
@@ -258,7 +258,7 @@
       {
         "time": "18:00 hrs",
         "title": "Recepción",
-        "desc": "Barbacoa J. Ibarra y familia"
+        "desc": "Salón J. Ibarra"
       },
       {
         "time": "20:00 hrs",
